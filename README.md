@@ -1,4 +1,4 @@
-# 59th Store Sales and Performance Analysis
+# store performance and-sales insights
 
 Welcome to the **59th Store Sales and Performance Analysis**, an insightful dive into the data behind the success of my online thrift store. This project uses simulated data to mimic real-world sales trends, revealing the metrics and insights that drive profitability and growth.
 
